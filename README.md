@@ -10,7 +10,7 @@
 
 ### Website Preview
 #### Home Page
-<img src="home/work5.png" width="900">
+<img src="img/home/work5.png" width="900">
 
 
 :star: Star me on GitHub — it helps!
